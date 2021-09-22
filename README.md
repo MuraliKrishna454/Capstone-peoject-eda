@@ -1,1 +1,1 @@
-# Capstone-peoject-eda
+# Capstone-project-eda
